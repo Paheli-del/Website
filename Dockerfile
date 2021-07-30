@@ -1,2 +1,2 @@
 From centos
-Add . /var/www/html
+Add . /var/lib/jenkins/workspace/build-website
